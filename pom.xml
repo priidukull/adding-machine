@@ -14,7 +14,7 @@
         <java.version>11</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <jettyVersion>9.4.19.v20190610</jettyVersion>
+        <jettyVersion>9.4.38.v20210224</jettyVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
